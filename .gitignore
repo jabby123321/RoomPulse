@@ -1,5 +1,12 @@
-firmware/.pio
-firmware/.vscode/
-firmware/
 .vscode/
+Firmware/.pio
+Firmware/.vscode/
+**/node_modules
+**/dist/
+**/build/
+**/coverage/
+**/.vite/
 
+.env*
+.DS_Store
+Thumbs.db

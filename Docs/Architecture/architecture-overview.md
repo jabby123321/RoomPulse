@@ -25,7 +25,7 @@ IoT devices collect sensor readings and transmit them to the back-end API. The A
 
 This document describes the high-level architecture of RoomPulse defining system components, their responsibilities, and their interactions.
 
-![Component diagram showing system architecture](.images/component-diagram.png)
+![Component diagram showing system architecture](./.images/componenet2.png)
 
 ## 2 Back-end
 
